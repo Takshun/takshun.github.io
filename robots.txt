@@ -1,7 +1,0 @@
-User-agent: *
-Disallow: /thank-you.html
-Disallow: /googlef0fef84a9667d813.html
-Disallow: /stylesguide.html
-Disallow: /chs/stylesguide.html
-Disallow: /cht/stylesguide.html
-Disallow: /unforgotten.html.old
